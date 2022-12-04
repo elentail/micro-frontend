@@ -1,3 +1,3 @@
 # micro-frontend
 
-Express(Router) + VUE + REACT
+Express(Router) + what(vue) + portal(react)
